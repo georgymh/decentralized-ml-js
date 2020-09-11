@@ -9,7 +9,7 @@
     "express": "^4.16.4",
     "express-ws": "^4.0.0",
     "jsdom": "^15.0.0",
-    "node-fetch": "^2.4.1",
+    "node-fetch": "^2.6.1",
     "websocketserver": "^1.0.0",
     "ws": "^6.2.1"
   },
